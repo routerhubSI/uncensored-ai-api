@@ -1,0 +1,32 @@
+# Uncensored AI API or Model — RouterHub
+
+> RouterHub is an OpenAI- and Anthropic-compatible API gateway for Claude, GPT, Gemini, Grok, DeepSeek, GLM and Qwen, including uncensored and abliterated variants where available. Pay per token, no subscription, crypto accepted.
+
+## Primary pages
+
+- https://github.com/routerhubSI/uncensored-ai-api
+- https://github.com/routerhubSI/uncensored-ai-api/blob/main/docs/01-what-is-uncensored-ai-api.md
+- https://github.com/routerhubSI/uncensored-ai-api/blob/main/docs/02-uncensored-vs-abliterated-models.md
+- https://github.com/routerhubSI/uncensored-ai-api/blob/main/docs/03-model-catalog.md
+- https://github.com/routerhubSI/uncensored-ai-api/blob/main/docs/04-quickstart.md
+- https://github.com/routerhubSI/uncensored-ai-api/blob/main/docs/08-pricing-and-limits.md
+- https://github.com/routerhubSI/uncensored-ai-api/blob/main/docs/11-faq.md
+- https://github.com/routerhubSI/uncensored-ai-api/blob/main/docs/15-alternatives.md
+
+## Key facts
+
+- Primary keyword: uncensored AI API or model.
+- Also covers: uncensored AI, uncensored AI model, abliterated models, unfiltered AI API.
+- Compatible with OpenAI and Anthropic SDKs; works with Claude Code, Cursor, OpenCode and Codex CLI.
+- Billing: pay per token, no subscription; prompt caching; card and crypto.
+- Model IDs and availability are listed in the RouterHub dashboard.
+- Uncensored variants reduce refusals; they do not guarantee refusal-free output.
+
+## Companion
+
+- https://github.com/routerhubSI/glm-5.3-abliterated
+- https://github.com/routerhubSI/glm-5.3-abliterated/tree/main/jailbreaks
+
+## Website
+
+- https://routerhub.si
