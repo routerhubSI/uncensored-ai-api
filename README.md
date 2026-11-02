@@ -166,7 +166,7 @@ Step-by-step guides: [Claude Code](./docs/07-claude-code-cursor-opencode-codex.m
 
 Live model prices are listed in the dashboard and can change when providers update their rates. See [Pricing & limits](./docs/08-pricing-and-limits.md).
 
-**Example published rates** for the uncensored and abliterated variants, checked November 1, 2026. Prices are USD per million tokens; the [live catalogue](https://routerhub.si/models?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api) always has the current numbers:
+**Example published rates** for the uncensored and abliterated variants, checked November 2, 2026. Prices are USD per million tokens; the [live catalogue](https://routerhub.si/models?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api) always has the current numbers:
 
 | Model ID | Input | Cached input | Output | Availability |
 |---|---:|---:|---:|---|

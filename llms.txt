@@ -20,6 +20,7 @@
 - Compatible with OpenAI and Anthropic SDKs; works with Claude Code, Cursor, OpenCode and Codex CLI.
 - Billing: pay per token, no subscription; prompt caching; card and crypto.
 - Model IDs and availability are listed in the RouterHub dashboard.
+- Example published rates checked 2026-11-02 (USD per million tokens): glm-5.3-abliterated $0.40 input / $1.33 output; glm-5.3-flash-abliterated $0.30 / $1.00; deepseek-v4.1-flash-abliterated $0.30 / $1.25. Live catalogue: https://routerhub.si/models.json
 - Uncensored variants reduce refusals; they do not guarantee refusal-free output.
 
 ## Companion
