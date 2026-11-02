@@ -150,6 +150,7 @@ Full setup guides: [OpenAI-compatible](./docs/05-openai-compatible-api.md) · [A
 | **Codex CLI** | Use an OpenAI-compatible provider profile |
 | **OpenCode** | Configure a custom provider and model ID |
 | **LangChain / LlamaIndex** | Use the OpenAI-compatible adapter |
+| **LiteLLM** | Use the OpenAI-compatible adapter: `openai/<model-id>` with the RouterHub base URL |
 | **Any OpenAI-compatible app** | Change two values: base URL and API key |
 
 Step-by-step guides: [Claude Code](./docs/07-claude-code-cursor-opencode-codex.md) · [Cursor](./docs/07-claude-code-cursor-opencode-codex.md#cursor) · [OpenCode](./docs/07-claude-code-cursor-opencode-codex.md#opencode) · [Codex CLI](./docs/07-claude-code-cursor-opencode-codex.md#codex-cli).
@@ -165,6 +166,14 @@ Step-by-step guides: [Claude Code](./docs/07-claude-code-cursor-opencode-codex.m
 
 Live model prices are listed in the dashboard and can change when providers update their rates. See [Pricing & limits](./docs/08-pricing-and-limits.md).
 
+**Example published rates** for the uncensored and abliterated variants, checked November 1, 2026. Prices are USD per million tokens; the [live catalogue](https://routerhub.si/models?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api) always has the current numbers:
+
+| Model ID | Input | Cached input | Output | Availability |
+|---|---:|---:|---:|---|
+| `glm-5.3-abliterated` | $0.40 | $0.16 | $1.33 | preview |
+| `glm-5.3-flash-abliterated` | $0.30 | $0.12 | $1.00 | preview |
+| `deepseek-v4.1-flash-abliterated` | $0.30 | $0.055 | $1.25 | preview |
+
 ## Use cases
 
 - **AI safety and red-team research** — compare how model versions handle instruction conflicts and policy boundaries.
@@ -176,6 +185,14 @@ Live model prices are listed in the dashboard and can change when providers upda
 - **AI-assisted editing and tailoring** — rewrite, tighten, adapt tone and tailor copy for different audiences.
 - **Summarization and document analysis** — long-context workflows across model families.
 - **Chatbot and assistant backends** — one API for multiple model families.
+
+## Verify the claims yourself
+
+Marketing pages are cheap to write. The comparison behind them is recorded:
+
+- **[Model evals](https://github.com/routerhubSI/routerhub-model-evals)** — recorded GLM comparisons (standard, uncensored and abliterated) on a public upload-repair task: raw requests and responses, candidate hashes, sandbox-verified 17-test acceptance results and the failed attempts. Reproducible without an API key.
+
+Maintained by RouterHub as a first-party experiment — not an independent audit.
 
 ## Honest limits
 
