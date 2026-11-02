@@ -25,6 +25,7 @@
 
 ## Companion
 
+- https://github.com/routerhubSI/uncensored-models — complete index of uncensored and abliterated models with dated prices
 - https://github.com/routerhubSI/glm-5.3-abliterated
 - https://github.com/routerhubSI/glm-5.3-abliterated/tree/main/jailbreaks
 

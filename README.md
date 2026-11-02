@@ -266,6 +266,7 @@ Start with the [model catalog](./docs/03-model-catalog.md) and the [alternatives
 ## Related
 
 - **[RouterHub](https://routerhub.si/?utm_source=github&utm_medium=readme&utm_campaign=uncensored-ai-api)** — one key, every frontier model.
+- **[Uncensored models index](https://github.com/routerhubSI/uncensored-models)** — every uncensored and abliterated model in one table, with dated prices and per-model pages.
 - **[AI Jailbreaks](https://github.com/routerhubSI/glm-5.3-abliterated/tree/main/jailbreaks)** — 35 paste-ready system prompts and agent specs for research.
 - **[Telegram channel](https://t.me/routerhubsi)** — model updates, pricing changes and support.
 
